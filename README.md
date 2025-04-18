@@ -65,7 +65,7 @@ Here you'll find the key projects I've developed in the field of Data Analysis, 
 ## 📊 Dashboards Only (Without Video)
 
 ### 💼 Finance  
-[![Finance Dashboard](https://drive.google.com/uc?id=1OPDUUY75BAM0CQchYjZkuNSfoMtWSjXh)](https://drive.google.com/file/d/1Me4aUDwu_-nYrVtvWHkeQtvmo7tdczNm/view)  
+[![Finance Dashboard](https://github.com/ellenoda/data-analysis-portfolio/blob/c7903a7285a7cbfb255ce0643de80ba85454e099/finance-ANIMATION.gif)  
 <sub>[Download PBIX or open Power BI](https://drive.google.com/file/d/1Me4aUDwu_-nYrVtvWHkeQtvmo7tdczNm/view)</sub>
 
 ---
