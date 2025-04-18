@@ -91,7 +91,7 @@ Here you'll find the key projects I've developed in the field of Data Analysis, 
 ---
 
 ### 🧑‍💼 Turnover Looker Studio
-[![Turnover Dashboard](https://drive.google.com/uc?id=1O5WA6abXD4n_Rg6F1-fY9O0AH46LoH4J)](https://drive.google.com/file/d/1qDPURrwNEkrySyMPUXCx95eWOA0jZsn3/view)  
+[![Turnover Dashboard](https://github.com/ellenoda/data-analysis-portfolio/blob/c6fe3a89a21636c6b378941f280a9180938fba21/turnover_looker-ANIMATION.gif)] 
 <sub>[open on Looker]([https://drive.google.com/file/d/1qDPURrwNEkrySyMPUXCx95eWOA0jZsn3/view](https://lookerstudio.google.com/reporting/e69ce19f-f48c-46ec-8135-c77089fa0e15))</sub>
 
 ## 📈 Customer Segmentation (Dedicated)
