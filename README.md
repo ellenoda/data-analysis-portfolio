@@ -83,7 +83,7 @@ Here you'll find the key projects I've developed in the field of Data Analysis, 
 ---
 
 ### 🧑‍💼 Turnover power BI 
-[![Turnover Dashboard](https://drive.google.com/uc?id=1O5WA6abXD4n_Rg6F1-fY9O0AH46LoH4J)](https://drive.google.com/file/d/1qDPURrwNEkrySyMPUXCx95eWOA0jZsn3/view)  
+[![Turnover Dashboard](https://github.com/ellenoda/data-analysis-portfolio/blob/bcf5e9e334a891fbf2c5756fa20309704bad6caf/turnover_powerbi-ANIMATION.gif)] 
 <sub>[Download PBIX or open Power BI](https://drive.google.com/file/d/1qDPURrwNEkrySyMPUXCx95eWOA0jZsn3/view)</sub>
 
 ---
