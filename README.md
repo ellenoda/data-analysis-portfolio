@@ -1,94 +1,116 @@
+---
+
 # 🎯 Portfolio | Data Analysis
 
 Welcome to my portfolio playlist!  
 Here you'll find the key projects I've developed in the field of Data Analysis, focused on transforming raw data into strategic insights and clear visualizations.
+<p align="center">
+  <img src="https://github.com/ellenoda/data-analysis-portfolio/blob/89156f7f6e4fc9e55195bf9677e7f8b0787ee450/about%20me-ANIMATION.gif?raw=true" alt="About Me Animation" width="80%">
+</p>
+
+<p align="center">
+  <a href="https://www.figma.com/proto/F79Ln3iR1qJavrQSxtlDKt/Ellen?node-id=13-233&p=f&t=urgp79XY8OasFgw2-1&scaling=contain&content-scaling=fixed&page-id=6%3A2">
+    <strong>📌 About Me – Click to see the full prototype</strong>
+  </a>
+</p>
+---
+
+### 🎬 Portfolio Overview (Cover Video)  
+[![Portfolio Cover](https://img.youtube.com/vi/GZUXRk5Ps80/0.jpg)](https://youtu.be/GZUXRk5Ps80)
+
+🎯 _Welcome video highlighting the main projects in this portfolio._
+
+---
+
+## 🧭 Navigation
+
+- [📌 Featured Projects](#-featured-projects)
+- [📊 Dashboards Only](#-dashboards-only-without-video)
+- [📈 Customer Segmentation](#-customer-segmentation-dedicated)
+- [🧪 Funnel & Journey](#-funnel-and-candidates-journey-soulcode-project)
+- [📬 Contact](#-contact)
 
 ---
 
 ## 🔍 What you'll find here:
 
-- Projects with automated ETL pipelines (Extract, Transform, Load)  
-- Interactive dashboards built with Looker Studio, Power BI, and Google Sheets  
-- Segmentation and analysis using BigQuery, Python, and SQL  
-- Real-world case studies focused on data-driven decision-making  
-- Accessible and result-oriented visual storytelling  
-
-Each video highlights my technical skills, analytical thinking, and ability to communicate insights clearly.  
-Follow along and discover how data can tell powerful stories!
-
-📊 `#Portfolio #DataAnalytics #Dashboards #LookerStudio #PowerBI #BigQuery #SQL #Python #ETL #DataProjects #DataPortfolio`
+- ✅ Automated ETL pipelines  
+- 📊 Interactive dashboards (Looker Studio, Power BI, Sheets)  
+- 🧮 RFM segmentation, BigQuery, Python, SQL  
+- 📈 Real-world cases and strategic insights  
+- 📌 Visual storytelling focused on clarity and impact
 
 ---
 
 ## 📌 Featured Projects
 
 ### 📽️ SoulCode: Automated ETL & Interactive Dashboard  
-[![SoulCode Dashboard](https://github.com/ellennoda/data-analysis-portfolio/raw/main/Captura%20de%20ecr%C3%A3%202025-04-17%20230516.png)](https://youtu.be/Um5dEZ5_UQg)  
-**Dashboard**: [Open Looker Studio Dashboard](https://lookerstudio.google.com/reporting/cc94f953-4b7c-4073-aa51-5b84f3d349ba)
+[![SoulCode Dashboard](https://img.youtube.com/vi/uP_FguBz6xs/0.jpg)](https://youtu.be/uP_FguBz6xs)  
+<sub>[Click to view dashboard](https://lookerstudio.google.com/reporting/cc94f953-4b7c-4073-aa51-5b84f3d349ba)</sub>
 
 ---
 
-### 📽️ General Portfolio Overview (Cover Video)  
-[![Portfolio Cover](https://github.com/ellennoda/data-analysis-portfolio/raw/main/Captura%20de%20ecr%C3%A3%202025-04-17%20232406.png)](https://youtu.be/uP_FguBz6xs)
-
-🎯 _Welcome video highlighting the main projects in this portfolio._
-
----
-
-### 👥 Customer Segmentation (RFM) – English Version  
-[![Customer Segmentation EN](https://img.youtube.com/vi/-pFPtI7NVTQ/0.jpg)](https://youtu.be/-pFPtI7NVTQ)  
-**Dashboard**: [Open Looker Studio Dashboard](https://lookerstudio.google.com/reporting/6a5294c0-8e8c-4d63-9d5e-de8e7b2b137b)
-
-📌 _This video showcases a full customer segmentation analysis using Google Sheets and Looker Studio. Starting from the unification and cleaning of customer, transaction, and purchase data, I applied the RFM methodology to classify customers into key segments: Loyal, Frequent, Potential, Recent, and At Risk._
+### 👥 Customer Segmentation (RFM) – English  
+[![Customer Segmentation EN](https://img.youtube.com/vi/CaE4RWqbOhs/0.jpg)](https://youtu.be/CaE4RWqbOhs)  
+<sub>[Click to view dashboard](https://lookerstudio.google.com/reporting/6a5294c0-8e8c-4d63-9d5e-de8e7b2b137b)</sub>
 
 ---
 
-### 👥 Segmentação de Clientes (RFM) – Versão em Português  
-[![Segmentação de Clientes PT](https://img.youtube.com/vi/Iw6tTjKaWW8/0.jpg)](https://youtu.be/Iw6tTjKaWW8)
-
-📌 _Você verá as fórmulas utilizadas, as transformações realizadas nas planilhas e os dashboards interativos que revelaram insights valiosos._  
-💡 _Aprenda a identificar perfis de clientes de alto valor, entender comportamentos de compra e propor estratégias personalizadas para aumentar a retenção e as vendas._  
-🎯 _Um ótimo exemplo de storytelling com dados para quem se interessa por marketing estratégico e análise de dados._
+### 👥 Segmentação de Clientes – Português  
+[![Segmentação de Clientes PT](https://img.youtube.com/vi/IYJ_iQxr9F0/0.jpg)](https://youtu.be/IYJ_iQxr9F0)  
+<sub>[Clique para visualizar o dashboard](https://lookerstudio.google.com/reporting/6a5294c0-8e8c-4d63-9d5e-de8e7b2b137b)</sub>
 
 ---
 
 ## 📊 Dashboards Only (Without Video)
 
-### 💼 Finance Dashboard  
-[![Finance Dashboard](https://github.com/ellennoda/data-analysis-portfolio/raw/main/Captura%20de%20ecr%C3%A3%202025-04-17%20230025.png)](https://drive.google.com/file/d/1Me4aUDwu_-nYrVtvWHkeQtvmo7tdczNm/view?usp=drive_link)
+### 💼 Finance  
+[![Finance Dashboard](https://drive.google.com/uc?id=1OPDUUY75BAM0CQchYjZkuNSfoMtWSjXh)](https://drive.google.com/file/d/1Me4aUDwu_-nYrVtvWHkeQtvmo7tdczNm/view)  
+<sub>[Download PBIX or open Power BI](https://drive.google.com/file/d/1Me4aUDwu_-nYrVtvWHkeQtvmo7tdczNm/view)</sub>
 
-### 🚛 Logistics Dashboard  
-[![Logistics Dashboard](https://github.com/ellennoda/data-analysis-portfolio/raw/main/Captura%20de%20ecr%C3%A3%202025-04-17%20230113.png)](https://drive.google.com/file/d/11zfjk8F_WJSK5rRMqUblP6mN17pO0Urg/view?usp=drive_link)
+---
 
-### 🍇 AgroFruits Analytics  
-[![Agro Dashboard](https://github.com/ellennoda/data-analysis-portfolio/raw/main/Captura%20de%20ecr%C3%A3%202025-04-17%20230214.png)](https://drive.google.com/file/d/1EXaC9Om9Nypj_OOYdaySfdpfCq33KEeU/view?usp=drive_link)
+### 🚛 Logistics  
+[![Logistics Dashboard](https://drive.google.com/uc?id=1fI4TXKM2x392bsmRj_4uVjYSmoH7KCea)](https://drive.google.com/file/d/11zfjk8F_WJSK5rRMqUblP6mN17pO0Urg/view)  
+<sub>[Download PBIX or open Power BI](https://drive.google.com/file/d/11zfjk8F_WJSK5rRMqUblP6mN17pO0Urg/view)</sub>
 
-### 👥 Employee Turnover Dashboard  
-[![Turnover Dashboard](https://github.com/ellennoda/data-analysis-portfolio/raw/main/Captura%20de%20ecr%C3%A3%202025-04-17%20230240.png)](https://drive.google.com/file/d/1qDPURrwNEkrySyMPUXCx95eWOA0jZsn3/view?usp=drive_link)
+---
 
-💡 _Understand employee churn patterns and help improve retention strategies._
+### 🍇 AgroFruits  
+[![Agro Dashboard](https://drive.google.com/uc?id=1J0cRMXpMDYo8W4FF7h0RuDGkE72DgiiQ)](https://drive.google.com/file/d/1EXaC9Om9Nypj_OOYdaySfdpfCq33KEeU/view)  
+<sub>[Download PBIX or open Power BI](https://drive.google.com/file/d/1EXaC9Om9Nypj_OOYdaySfdpfCq33KEeU/view)</sub>
+
+---
+
+### 🧑‍💼 Turnover  
+[![Turnover Dashboard](https://drive.google.com/uc?id=1O5WA6abXD4n_Rg6F1-fY9O0AH46LoH4J)](https://drive.google.com/file/d/1qDPURrwNEkrySyMPUXCx95eWOA0jZsn3/view)  
+<sub>[Download PBIX or open Power BI](https://drive.google.com/file/d/1qDPURrwNEkrySyMPUXCx95eWOA0jZsn3/view)</sub>
+
+---
+
+## 📈 Customer Segmentation (Dedicated)
+
+[![Customer Segmentation Visual](https://drive.google.com/uc?id=1S5mktXTvQqduJ5-TPPqO2G3tNB_HNntm)](https://lookerstudio.google.com/reporting/6a5294c0-8e8c-4d63-9d5e-de8e7b2b137b)  
+<sub>[Open dashboard in Looker Studio](https://lookerstudio.google.com/reporting/6a5294c0-8e8c-4d63-9d5e-de8e7b2b137b)</sub>
 
 ---
 
 ## 🧪 Funnel and Candidates Journey (SoulCode project)
 
-### 📈 Funnel Overview  
-[![Funnel Dashboard](https://github.com/ellennoda/data-analysis-portfolio/raw/main/Captura%20de%20ecr%C3%A3%202025-04-17%20230400.png)](https://lookerstudio.google.com/reporting/cc94f953-4b7c-4073-aa51-5b84f3d349ba)
-
-### 🧩 Journey View  
-[![Candidates Journey](https://github.com/ellennoda/data-analysis-portfolio/raw/main/Captura%20de%20ecr%C3%A3%202025-04-17%20230336.png)](https://lookerstudio.google.com/reporting/cc94f953-4b7c-4073-aa51-5b84f3d349ba)
+### 🔽 Funnel  
+[![Funnel Dashboard](https://drive.google.com/uc?id=1-6HRwWaHhx8HGTQutwvTik5yKkE3x4K4)](https://lookerstudio.google.com/reporting/cc94f953-4b7c-4073-aa51-5b84f3d349ba)  
+<sub>[Click to view](https://lookerstudio.google.com/reporting/cc94f953-4b7c-4073-aa51-5b84f3d349ba)</sub>
 
 ---
 
-## 🙋‍♀️ More About Me
-
-[![About Me](https://github.com/ellennoda/data-analysis-portfolio/raw/main/Captura%20de%20ecr%C3%A3%202025-04-17%20232406.png)](https://www.figma.com/proto/F79Ln3iR1qJavrQSxtlDKt/Ellen?node-id=35-3815&t=DkUj8VI5neQKJr3q-1)
-
-📝 _Click the image above to view more about my journey, background, and aspirations._
+### 🧭 Candidates Journey  
+[![Candidates Journey](https://drive.google.com/uc?id=1fNO0j7cXDKVnO2XO8KvXEz2StFJB56cd)](https://lookerstudio.google.com/reporting/cc94f953-4b7c-4073-aa51-5b84f3d349ba)  
+<sub>[Click to view](https://lookerstudio.google.com/reporting/cc94f953-4b7c-4073-aa51-5b84f3d349ba)</sub>
 
 ---
 
 ## 📬 Contact
 
-- 📧 Email: ellenoda@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/ellen-noda](https://www.linkedin.com/in/ellen-noda)
+📧 Email: ellenoda@gmail.com  
+💼 LinkedIn: [linkedin.com/in/ellen-noda](https://www.linkedin.com/in/ellen-noda)
+
