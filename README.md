@@ -82,11 +82,17 @@ Here you'll find the key projects I've developed in the field of Data Analysis, 
 
 ---
 
-### 🧑‍💼 Turnover  
+### 🧑‍💼 Turnover power BI 
 [![Turnover Dashboard](https://drive.google.com/uc?id=1O5WA6abXD4n_Rg6F1-fY9O0AH46LoH4J)](https://drive.google.com/file/d/1qDPURrwNEkrySyMPUXCx95eWOA0jZsn3/view)  
 <sub>[Download PBIX or open Power BI](https://drive.google.com/file/d/1qDPURrwNEkrySyMPUXCx95eWOA0jZsn3/view)</sub>
 
 ---
+
+---
+
+### 🧑‍💼 Turnover Looker Studio
+[![Turnover Dashboard](https://drive.google.com/uc?id=1O5WA6abXD4n_Rg6F1-fY9O0AH46LoH4J)](https://drive.google.com/file/d/1qDPURrwNEkrySyMPUXCx95eWOA0jZsn3/view)  
+<sub>[open on Looker]([https://drive.google.com/file/d/1qDPURrwNEkrySyMPUXCx95eWOA0jZsn3/view](https://lookerstudio.google.com/reporting/e69ce19f-f48c-46ec-8135-c77089fa0e15))</sub>
 
 ## 📈 Customer Segmentation (Dedicated)
 
@@ -95,16 +101,11 @@ Here you'll find the key projects I've developed in the field of Data Analysis, 
 
 ---
 
-## 🧪 Funnel and Candidates Journey (SoulCode project)
+## 🧪 Candidates Journey (SoulCode project)
 
-### 🔽 Funnel  
-[![Funnel Dashboard](https://drive.google.com/uc?id=1-6HRwWaHhx8HGTQutwvTik5yKkE3x4K4)](https://lookerstudio.google.com/reporting/cc94f953-4b7c-4073-aa51-5b84f3d349ba)  
-<sub>[Click to view](https://lookerstudio.google.com/reporting/cc94f953-4b7c-4073-aa51-5b84f3d349ba)</sub>
-
----
 
 ### 🧭 Candidates Journey  
-[![Candidates Journey](https://drive.google.com/uc?id=1fNO0j7cXDKVnO2XO8KvXEz2StFJB56cd)](https://lookerstudio.google.com/reporting/cc94f953-4b7c-4073-aa51-5b84f3d349ba)  
+[![Candidates Journey](https://github.com/ellenoda/data-analysis-portfolio/blob/f10e9a284317fa86251827e1c2093ca5c0533440/soulcode-ANIMATION.gif)](https://lookerstudio.google.com/reporting/cc94f953-4b7c-4073-aa51-5b84f3d349ba)  
 <sub>[Click to view](https://lookerstudio.google.com/reporting/cc94f953-4b7c-4073-aa51-5b84f3d349ba)</sub>
 
 ---
