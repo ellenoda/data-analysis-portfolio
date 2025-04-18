@@ -77,7 +77,7 @@ Here you'll find the key projects I've developed in the field of Data Analysis, 
 ---
 
 ### 🍇 AgroFruits  
-[![Agro Dashboard](https://drive.google.com/uc?id=1J0cRMXpMDYo8W4FF7h0RuDGkE72DgiiQ)](https://drive.google.com/file/d/1EXaC9Om9Nypj_OOYdaySfdpfCq33KEeU/view)  
+[![Agro Dashboard](https://github.com/ellenoda/data-analysis-portfolio/blob/08dec2367d11025c32241f3fd32fa0ee306b5bd9/agrofruit-ANIMATION.gif)  
 <sub>[Download PBIX or open Power BI](https://drive.google.com/file/d/1EXaC9Om9Nypj_OOYdaySfdpfCq33KEeU/view)</sub>
 
 ---
@@ -88,15 +88,13 @@ Here you'll find the key projects I've developed in the field of Data Analysis, 
 
 ---
 
----
-
 ### 🧑‍💼 Turnover Looker Studio
 [![Turnover Dashboard](https://github.com/ellenoda/data-analysis-portfolio/blob/c6fe3a89a21636c6b378941f280a9180938fba21/turnover_looker-ANIMATION.gif)] 
 <sub>[open on Looker]([https://drive.google.com/file/d/1qDPURrwNEkrySyMPUXCx95eWOA0jZsn3/view](https://lookerstudio.google.com/reporting/e69ce19f-f48c-46ec-8135-c77089fa0e15))</sub>
 
 ## 📈 Customer Segmentation (Dedicated)
 
-[![Customer Segmentation Visual](https://drive.google.com/uc?id=1S5mktXTvQqduJ5-TPPqO2G3tNB_HNntm)](https://lookerstudio.google.com/reporting/6a5294c0-8e8c-4d63-9d5e-de8e7b2b137b)  
+[![Customer Segmentation Visual](https://github.com/ellenoda/data-analysis-portfolio/blob/14546942577712b94149bfd24daa7407fc929147/client-ANIMATION.gif)  
 <sub>[Open dashboard in Looker Studio](https://lookerstudio.google.com/reporting/6a5294c0-8e8c-4d63-9d5e-de8e7b2b137b)</sub>
 
 ---
